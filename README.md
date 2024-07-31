@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Akshada,recent graduate in Computer Science Engineering,Class of 2024,specializing in Java,has equipped with diverse set of skills in software development,algorithm,and problem solving.
+My passion lies in building efficient and scalable solutions using Java and related technologies.
+I am eager to connect with like-minded professionals and collaborate on innovative projects.
 
 <!--
 **Akshada118/Akshada118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
